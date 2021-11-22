@@ -1,10 +1,14 @@
-# QuickLab Linkerd
+# Linkerd QuickLab
 
 ## Prerequisites
 
 You will need each of the following in order to complete the workshop:
 
 1. Kubernetes (installed locally with minikube)
+```
+brew install minikube
+brew install virtualbox
+```
 
 
 ## Deploy a Sample Application
