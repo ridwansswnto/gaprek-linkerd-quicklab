@@ -11,6 +11,9 @@ brew install virtualbox
 
 ## Deploy a Sample Application
 
+![Emojivoto Topology](emojivoto.png "Emojivoto Topology")
+
+
 1. Deploy sample apps EMOJIVOTO
 
 ```
